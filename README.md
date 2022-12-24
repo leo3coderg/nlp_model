@@ -1,6 +1,6 @@
-# branch "model_params" and "bert-based-uncased" are two parts of model parameters.
-# Download them and put them into folders whose name is the same as the branch name. 
-# that is, the file category should be the following:
+branch "model_params" and "bert-based-uncased" are two parts of model parameters.
+Download them and put them into folders whose name is the same as the branch name. 
+that is, the file category should be the following:
 -Bert_classify
   -_pycache_
   -bert-based-uncased
